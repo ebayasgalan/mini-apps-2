@@ -18,6 +18,9 @@ const StyledApp = styled.div`
     justify-content: center;
     color: blue;
   }
+  .active {
+    color: orange;
+  }
   li {
     font-size: 20px;
     margin-right: 10px;

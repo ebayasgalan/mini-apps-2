@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node server",
+    "start": "json-server db.json",
     "watch": "webpack -w",
-    "json": "json-server db.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
